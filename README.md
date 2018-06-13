@@ -1,5 +1,4 @@
 # summary essay
----
 
 ##### 这是什么？
 - 团队技术交流的轻量级结点
@@ -20,7 +19,7 @@
 - 受众：主要是面向团队成员， 对外可以形成博客输出
 - 传播方式： 传统博客交互为单向， 本项目为多向
 
-#### 使用方法
+#### 运行项目
 ---
 
 - 安装gitbook插件
@@ -33,6 +32,6 @@ npm install -g gitbook-cli
 ``` 
 gitbook serve
 ```
-
+#### 帮助
 - [gitbook使用方法](http://www.chengweiyang.cn/gitbook/introduction/README.html)
 
