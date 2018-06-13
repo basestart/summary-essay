@@ -10,7 +10,7 @@
 
 [如何运行项目?](#run)
 
-[如何创建第一个模块(demo)](#demo)
+[如何创建第一个模块(demo)?](#demo)
 
 [帮助](#help)
 
@@ -63,7 +63,7 @@ gitbook serve
 # Summary
 
 * [Introduction](README.md)
-* [demo](demo/demomenu.md) // 一级目录(链接md文档)
+* [DemoEmnu](demo/demomenu.md) // 一级目录(链接md文档)
  * [demo](demo/demo.md) // 二级目录空一格(链接md文档)
 ```
 
