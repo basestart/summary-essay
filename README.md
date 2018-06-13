@@ -64,7 +64,7 @@ gitbook serve
 
 * [Introduction](README.md)
 * [DemoEmnu](demo/demomenu.md) // 一级目录(链接md文档)
- * [demo](demo/demo.md) // 二级目录空一格(链接md文档)
+ * [Demo](demo/demo.md) // 二级目录空一格(链接md文档)
 ```
 
 - 创建对应的目录以及文档
