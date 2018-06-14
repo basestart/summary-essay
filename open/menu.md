@@ -1,6 +1,6 @@
 ## 如何参与开源项目
 
-- 为首次参与者和新人准备的开源项目参与手册
+######为首次参与者和新人准备的开源项目参与手册
 
 [1 为什么参与开源项目](whyOpenSource.md)
 
@@ -18,4 +18,4 @@
 
 ---
 
-[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+[原文:How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
