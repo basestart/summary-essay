@@ -21,6 +21,8 @@
 
 - [如何参与开源项目](open/menu.md)
 
+- [有趣的npm包以及源码分析(欲造轮子， 先拆轮子)](https://github.com/fridego/fine-npms)
+
 ##### <span id="what">这是什么</span>
 
 - 团队技术交流的轻量级结点
