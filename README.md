@@ -23,6 +23,10 @@
 
 - [有趣的npm包以及源码分析(欲造轮子， 先拆轮子)](https://github.com/fridego/fine-npms)
 
+- [持续集成与持续交付](cicd/menu.md)
+
+- [英语学习之翻译篇](https://github.com/fridego/translations)
+
 ##### <span id="what">这是什么</span>
 
 - 团队技术交流的轻量级结点

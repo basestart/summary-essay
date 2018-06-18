@@ -9,6 +9,7 @@
  * [5 如何(正确)提交代码](open/prRightWay.md)
  * [6 提交代码之后需要做什么](open/postPr.md)
  * [7 你可以做到的](open/youCan.md)
+* [持续集成与持续交付](cicd/menu.md)
 * [DemoMenu](demo/demomenu.md)
  * [Demo](demo/demo.md)
 
