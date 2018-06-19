@@ -9,3 +9,9 @@
 ##### CD篇
 
 ##### 实战操作， 完整走完流程
+
+##### 帮助
+
+[centos如何升级git到最新版本](gitversion.md)
+
+[nginx根据端口号配置不同目录下资源](portsite.md)

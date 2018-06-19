@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [首页导航](README.md)
 * [如何参与开源项目](open/menu.md)
  * [1 为什么参与开源项目](open/whyOpenSource.md)
  * [2 贡献开源意味着什么](open/whatItMeans.md)
@@ -10,6 +10,8 @@
  * [6 提交代码之后需要做什么](open/postPr.md)
  * [7 你可以做到的](open/youCan.md)
 * [持续集成与持续交付](cicd/menu.md)
+ * [centos如何升级git到最新版本](cicd/gitversion.md)
+ * [nginx根据端口号配置不同目录下资源](cicd/portsite.md)
 * [DemoMenu](demo/demomenu.md)
  * [Demo](demo/demo.md)
 
