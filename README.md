@@ -19,6 +19,8 @@
 
 ##### <span id="nav">内容导航</span>
 
+- [报错集合](https://github.com/fridego/error-collections)
+
 - [如何参与开源项目](open/menu.md)
 
 - [有趣的npm包以及源码分析(欲造轮子， 先拆轮子)](https://github.com/fridego/fine-npms)
@@ -26,6 +28,8 @@
 - [持续集成与持续交付](cicd/menu.md)
 
 - [英语学习之翻译篇](https://github.com/fridego/translations)
+
+- [一个有趣的文档工具docz](https://github.com/fridego/docx-cn)
 
 ##### <span id="what">这是什么</span>
 
