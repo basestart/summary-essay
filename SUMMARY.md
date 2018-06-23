@@ -12,6 +12,6 @@
 * [持续集成与持续交付](cicd/menu.md)
  * [centos如何升级git到最新版本](cicd/gitversion.md)
  * [nginx根据端口号配置不同目录下资源](cicd/portsite.md)
-* [DemoMenu](demo/demomenu.md)
- * [Demo](demo/demo.md)
+* [tools](tip/menu.md)
+ * [一个简单的_get和_set的实现](tip/_set_get.md)
 
