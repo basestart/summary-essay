@@ -26,6 +26,9 @@
 
 - [一个有趣的文档工具docz](https://github.com/fridego/docx-cn) 
 
+- [一个有关深层嵌套数据对象的 _get 和 _set 的实现方法](tip/_set_get.md)
+
+
 ##### <span id="run">如何运行项目</span>
 
 - fork 并 clone 本项目
