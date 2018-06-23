@@ -1,5 +1,7 @@
 # summary essay
 
+[好的博客](#blog)
+
 [内容导航](#nav)
 
 [这是什么](#what)
@@ -16,6 +18,9 @@
 
 [帮助](#help)
 
+##### <span id="blog">好的博客</span>
+
+- [架构演变的理解](http://www.cnblogs.com/zyrblog/p/9085144.html)
 
 ##### <span id="nav">内容导航</span>
 
