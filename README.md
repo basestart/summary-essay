@@ -6,8 +6,6 @@
 
 [如何运行项目](#run)
 
-[如何创建第一个模块(demo)?](#demo)
-
 [帮助](#help)
 
 ##### <span id="blog">好的博客</span>
@@ -42,21 +40,6 @@ npm install -g gitbook-cli
 ``` 
 gitbook serve
 ```
-
-##### <span id="demo">如何创建第一个模块（demo）</span>
-
-- 在根目录的SUMMARY.md添加文档目录
-
-```
-# Summary
-
-* [Introduction](README.md)
-* [DemoEmnu](demo/demomenu.md) // 一级目录(链接md文档)
- * [Demo](demo/demo.md) // 二级目录空一格(链接md文档)
-```
-
-- 创建对应的目录以及文档
-
 
 ##### <span id="help">帮助</span>
 
