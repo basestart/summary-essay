@@ -4,8 +4,8 @@
 
  - 先装vmware
 
- - 下载ubuntu或者centos镜像，我使用的是ubuntu， 主要是考虑图形界面， 对docker支持的比较好
- 
+ - 下载linux镜像，我使用的是基于ubuntu的[Linux Mint 18.3 "Sylvia" - Cinnamon (64-bit)](https://www.linuxmint.com/edition.php?id=246)， 之所以选择这个， 是因为之前装系统时，只有mint一次成功，所以对它比较有好感。当然， 最主要的原因还是在安装ubuntu和centos时， 都出现了不小的麻烦， 先规避一下， docker整起来再说。 
+
 
 #### 前端持续集成(CI)与持续交付(CD)
 
