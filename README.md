@@ -28,6 +28,8 @@
 
 - [一个有关深层嵌套数据对象的 _get 和 _set 的实现方法](tip/_set_get.md)
 
+- [基于create-react-app 搭建的使用redux管理数据流的项目结构](https://github.com/fridego/react-project-constructure)
+
 
 ##### <span id="run">如何运行项目</span>
 

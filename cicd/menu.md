@@ -11,9 +11,7 @@
  ```
     sudo apt-get update
 
-    sudo apt-get docker
-
-    sudo apt install docker.io
+    sudo apt-get install docker
 
     docker --version
  ```
