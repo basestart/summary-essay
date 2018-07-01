@@ -12,6 +12,8 @@
 
 - [架构演变的理解](http://www.cnblogs.com/zyrblog/p/9085144.html)
 
+- [使用express搭建简单的grapgql环境](https://www.jianshu.com/p/0343b83e0cbb)
+
 ##### <span id="nav">内容导航</span>
 
 - [报错集合](https://github.com/fridego/error-collections)
