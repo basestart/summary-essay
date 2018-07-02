@@ -14,4 +14,5 @@
  * [nginx根据端口号配置不同目录下资源](cicd/portsite.md)
 * [tools](tip/menu.md)
  * [一个简单的_get和_set的实现](tip/_set_get.md)
-
+* [redux相关](test/menu.md)
+ * [自述](test/ReadMe.md)
