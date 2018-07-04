@@ -16,6 +16,18 @@
 
 - [gitflow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
 
+- csrf
+
+  - [csrf防御演练](http://www.freebuf.com/column/151816.html)
+
+  - [csrf防御](https://blog.csdn.net/wwqwkg6e/article/details/55655204)
+
+  - [CSRF攻击与防御](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
+
+  - [csrf维基百科](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+
+  - [跨站请求伪造CSRF](https://blog.csdn.net/fhzaitian/article/details/51513797)
+
 ##### <span id="nav">内容导航</span>
 
 - [报错集合](https://github.com/fridego/error-collections)
