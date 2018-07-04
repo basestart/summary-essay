@@ -50,6 +50,8 @@
 
 - [nodejs代码不支持es6等新特性怎么办](https://www.jianshu.com/p/a9c27b80af9d)
 
+- [在windows环境下做一个项目部署的指令](tip/deploy.md)
+
 ##### <span id="run">如何运行项目</span>
 
 - fork 并 clone 本项目
