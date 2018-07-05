@@ -33,6 +33,11 @@
 - [基于create-react-app 搭建的使用redux管理数据流的项目结构](https://github.com/fridego/react-project-constructure)
 
 - [ubuntu安装gitlab](https://blog.csdn.net/ruangong1203/article/details/73065410)
+
+- [一个在window是环境下自动部署代码并推送到远程的cli工具](https://github.com/fridego/cim-deploy)
+
+- [学习koa过程case](https://github.com/fridego/koa-demo)
+
 ##### <span id="run">如何运行项目</span>
 
 - fork 并 clone 本项目
