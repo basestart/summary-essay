@@ -50,7 +50,9 @@
 
 - [nodejs代码不支持es6等新特性怎么办](https://www.jianshu.com/p/a9c27b80af9d)
 
-- [在windows环境下做一个项目部署的指令](tip/deploy.md)
+- [在windows环境下做一个项目部署的指令cim-deploy](tip/deploy.md)
+
+- [koa-demo 一个学习koa的case集合](https://github.com/fridego/koa-demo)
 
 ##### <span id="run">如何运行项目</span>
 
