@@ -9,7 +9,7 @@
 ```
 git reset --hard {提交记录的hash} // 本地回退到想要还原的节点
 
-git push -f // 强制推动到远程
+git push -f // 强制推动到远程， 远程记录回到回退节点， 后续的提交全部消失， 也就是说 commit a -> b -> c, 如果从creset到b， 强制推送远程， 会变成a -> b
 
 ```
 不过这种操作有个缺点： 当开发者没有远程仓库权限时， 强制push会被拒绝， 可以通过温和的方式迂回
@@ -19,7 +19,7 @@ git push -f // 强制推动到远程
 ```
 git reset --hard {提交记录的hash}
 
-git reset --soft origin/{所在分支} // 撤销后续所有操作
+git reset --soft origin/{所在分支} // 撤销后续所有操作， 不过后续的提交依然存在， 可以向前回退, 也就是说 a -> b -> c 会变成 a -> b -> c -> 新的commit（仍然为b节点的内容）
 
 git add .
 
