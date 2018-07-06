@@ -56,7 +56,7 @@
 
 - [koa-demo 一个学习koa的case集合](https://github.com/fridego/koa-demo)
 
-- [git如何使用历史提交覆盖最新提交](tip/gitcover)
+- [git如何使用历史提交覆盖最新提交](tip/gitcover.md)
 
 ##### <span id="run">如何运行项目</span>
 
