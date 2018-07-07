@@ -30,6 +30,8 @@
 
 - [windows不止吃hyper-v， 该如何安装docker之docker toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
 
+- [最好的git手册git官方中文文档](https://git-scm.com/book/zh/v2)
+
 ##### <span id="nav">内容导航</span>
 
 - [报错集合](https://github.com/fridego/error-collections)
