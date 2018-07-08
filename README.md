@@ -22,11 +22,11 @@
 
   - [csrf防御](https://blog.csdn.net/wwqwkg6e/article/details/55655204)
 
-  - [CSRF攻击与防御](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
+  - [csrf攻击与防御](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
 
   - [csrf维基百科](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
 
-  - [跨站请求伪造CSRF](https://blog.csdn.net/fhzaitian/article/details/51513797)
+  - [跨站请求伪造csrf](https://blog.csdn.net/fhzaitian/article/details/51513797)
 
 - [windows不止吃hyper-v， 该如何安装docker之docker toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
 
