@@ -32,6 +32,8 @@
 
 - [最好的git手册git官方中文文档](https://git-scm.com/book/zh/v2)
 
+- [hexo从零开始到搭建完整](https://www.cnblogs.com/visugar/p/6821777.html)
+
 ##### <span id="nav">内容导航</span>
 
 - [报错集合](https://github.com/fridego/error-collections)
