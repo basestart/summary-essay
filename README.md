@@ -33,6 +33,10 @@
 
   - [跨站请求伪造csrf](https://blog.csdn.net/fhzaitian/article/details/51513797)
 
+- xss
+
+  - [内容安全策略（CSP）详解](https://blog.csdn.net/qq_37943295/article/details/79978761)
+
 ### 项目，工程化与devops
 
 - [使用express搭建简单的grapgql环境](https://www.jianshu.com/p/0343b83e0cbb)
