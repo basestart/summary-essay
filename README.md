@@ -39,6 +39,8 @@
 
   - [内容安全策略CSP-译](https://fridego.github.io/2018/07/12/%E5%86%85%E5%AE%B9%E5%AE%89%E5%85%A8%E7%AD%96%E7%95%A5CSP-%E8%AF%91/)
 
+  - [DOM XSS绕过CSP nonces分析与防御](http://www.mottoin.com/94791.html)
+
 ### 项目，工程化与devops
 
 - [使用express搭建简单的grapgql环境](https://www.jianshu.com/p/0343b83e0cbb)
