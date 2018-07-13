@@ -47,6 +47,8 @@
 
   - [浅析同源方式执行（SOME）攻击](http://www.freebuf.com/articles/web/169873.html)
 
+  - [SOME攻击Script](https://www.aliyun.com/jiaocheng/1011370.html?spm=5176.100033.2.16.535LIE)
+
 ### 项目，工程化与devops
 
 - [使用express搭建简单的grapgql环境](https://www.jianshu.com/p/0343b83e0cbb)
