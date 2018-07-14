@@ -40,6 +40,8 @@
   - [内容安全策略CSP-译](https://fridego.github.io/2018/07/12/%E5%86%85%E5%AE%B9%E5%AE%89%E5%85%A8%E7%AD%96%E7%95%A5CSP-%E8%AF%91/)
 
   - [CSP Is Dead, Long Live CSP! On the Insecurity of Whitelists and the Future of Content Security Policy(论白名单不安全及CSP的未来-译)](https://fridego.github.io/2018/07/13/%E7%99%BD%E5%90%8D%E5%8D%95%E7%9A%84%E4%B8%8D%E5%AE%89%E5%85%A8%E5%92%8CCSP%E7%9A%84%E6%9C%AA%E6%9D%A5/)
+  
+  - [webpack 配置CSP以及nonce](https://webpack.docschina.org/guides/csp/)
 
   - [DOM XSS绕过CSP nonces分析与防御](http://www.mottoin.com/94791.html)
 
