@@ -1,5 +1,7 @@
 # summary essay
 
+[我的博客](https://fridego.github.io)
+
 [好的博客](#blog)
 
 [内容导航](#nav)
