@@ -72,6 +72,8 @@
 
 - [持续集成与持续交付](cicd/menu.md)
 
+- [浅析Redux 的 store enhancer](https://segmentfault.com/a/1190000012653724)
+
 - [英语学习之翻译篇](https://github.com/fridego/translations)
 
 - [一个有趣的文档工具docz](https://github.com/fridego/docx-cn) 
