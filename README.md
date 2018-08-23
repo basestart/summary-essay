@@ -55,6 +55,8 @@
 
 ### 项目，工程化与devops
 
+- [react装饰器支持](https://www.cnblogs.com/wenxiangxu/p/9134549.html)
+
 - [使用express搭建简单的grapgql环境](https://www.jianshu.com/p/0343b83e0cbb)
 
 - [gitflow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
