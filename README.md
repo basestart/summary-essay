@@ -12,6 +12,12 @@
 
 ## <span id="blog">好的博客</span>
 
+### react
+
+- [react 源码分析上篇](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/)
+
+- [react 源码分析下篇](https://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_two/)
+
 ### 架构
 
 - [架构演变的理解](http://www.cnblogs.com/zyrblog/p/9085144.html)
