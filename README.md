@@ -22,6 +22,8 @@
 
 - [架构演变的理解](http://www.cnblogs.com/zyrblog/p/9085144.html)
 
+- [权限控制](http://www.imooc.com/article/40553)
+
 ### 前端
 
 
