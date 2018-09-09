@@ -105,6 +105,10 @@
 - [You have not accepted the license agreements of the following SDK components:
   Android SDK Build-Tools 26.0.3.](https://blog.csdn.net/y505772146/article/details/75807622)
 
+- [Execution failed for task ':app:installDebug'.
+> com.android.builder.testing.api.DeviceException: No connected devices!
+](https://stackoverflow.com/questions/10303639/adb-command-not-found)
+
 ##### <span id="run">如何运行项目</span>
 - [nodejs代码不支持es6等新特性怎么办](https://www.jianshu.com/p/a9c27b80af9d)
 
