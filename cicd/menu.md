@@ -1,6 +1,7 @@
 ##### 环境篇
 
-- 先安装linux环境， windows也是可以的， 不过必须得支持hyper-v, 可惜我的不支持， 只能用linux了， 因为不想再装一次系统， 就先用虚拟机跑一下， 用做学习
+
+在linux环境下安装docker
 
  - 先装vmware
 
@@ -15,6 +16,8 @@
 
     docker --version
  ```
+
+在windows环境下安装docker，windows必须是win10， 因为支持hyper-v, 可惜我的不支持， 但这怎能难倒我， 直接使用[docker toolbox](https://docs.docker.com/toolbox/overview/)， 安装完之后， 直接运行quickstart就可以了
 
 #### 前端持续集成(CI)与持续交付(CD)
 

@@ -14,4 +14,6 @@
  * [nginx根据端口号配置不同目录下资源](cicd/portsite.md)
 * [tools](tip/menu.md)
  * [一个简单的_get和_set的实现](tip/_set_get.md)
+ * [在windows环境下做一个项目部署的指令](tip/deploy.md)
+ * [git如何使用历史提交覆盖最新提交](tip/gitcover)
 
