@@ -98,13 +98,14 @@
 
 - [ubuntu安装gitlab](https://blog.csdn.net/ruangong1203/article/details/73065410)
 
-<<<<<<< HEAD
 ##### react-native 报错
 
 - [SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable.](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)
 
+- [You have not accepted the license agreements of the following SDK components:
+  Android SDK Build-Tools 26.0.3.](https://blog.csdn.net/y505772146/article/details/75807622)
+
 ##### <span id="run">如何运行项目</span>
-=======
 - [nodejs代码不支持es6等新特性怎么办](https://www.jianshu.com/p/a9c27b80af9d)
 
 - [在windows环境下做一个项目部署的指令cim-deploy](tip/deploy.md)
@@ -114,7 +115,6 @@
 - [git如何使用历史提交覆盖最新提交](tip/gitcover.md)
 
 ## <span id="run">如何运行项目</span>
->>>>>>> eadf04ec4506a535b99dc7039cfa2c851eb8f6e3
 
 - fork 并 clone 本项目
 
