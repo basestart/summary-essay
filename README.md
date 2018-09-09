@@ -33,6 +33,11 @@
 - [基于create-react-app 搭建的使用redux管理数据流的项目结构](https://github.com/fridego/react-project-constructure)
 
 - [ubuntu安装gitlab](https://blog.csdn.net/ruangong1203/article/details/73065410)
+
+##### react-native 报错
+
+- [SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable.](https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found)
+
 ##### <span id="run">如何运行项目</span>
 
 - fork 并 clone 本项目
