@@ -69,6 +69,8 @@
 
 - [gitflow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
 
+- [非空项目初始化关联github](https://www.jianshu.com/p/b93ac59d16f1)
+
 - [windows不支持hyper-v， 该如何安装docker之docker toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
 
 - [最好的git手册git官方中文文档](https://git-scm.com/book/zh/v2)
