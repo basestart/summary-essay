@@ -10,6 +10,8 @@
 
 [帮助](#help)
 
+[更多记录查看issue汇总](https://github.com/fridego/summary-essay/issues/8)
+
 ## <span id="blog">好的博客</span>
 
 ### react
